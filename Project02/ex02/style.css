@@ -1,0 +1,39 @@
+.square {
+    width: 100px;
+    height: 100px;
+    border: 3px solid #42bd48;
+     background-color: #42bd48;
+}
+
+.rectangle {
+    width: 200px;
+    height: 100px;
+    border: 3px solid blue;
+     background-color: #42bd48;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid rgb(111, 30, 136);
+     background-color: #2d38d4;
+}
+
+
+
+.pill {
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+    border: 3px solid rgb(175, 37, 37);
+     background-color: #42bd48;
+}
+
+.triangle {
+    width: 0;
+    height: 70;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid rgb(141, 14, 14);
+}
